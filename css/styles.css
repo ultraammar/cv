@@ -1,0 +1,20 @@
+body{
+  background-color: #FFF5FD;
+}
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-width: 4px;
+  width: 6%;
+  border-color: #ff96ad;
+}
+
+h1{
+  color: #ff96ad;
+
+}
+h3{color: #ff96ad; font-family: georgia;}
+
+.circular{
+  border-radius: 100%;
+}
